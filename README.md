@@ -13,7 +13,7 @@
 
 <h3> Connect with me: </h3>
 <p align="left">
-<a href="https://codepen.io/edendattox" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="edendattox" height="30" width="40" /></a><a href="https://linkedin.com/in/rahulkathait" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahulkathait" height="30" width="40" /></a><a href="https://codesandbox.com/edendattox" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="edendattox" height="30" width="40" /></a><a href="https://instagram.com/eden_dattox" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="eden_dattox" height="30" width="40" /></a><a href="https://www.hackerrank.com/edendattox" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="edendattox" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahulkathait" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahulkathait" height="30" width="40" /></a><a href="https://instagram.com/eden_dattox" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="eden_dattox" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
