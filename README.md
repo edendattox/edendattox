@@ -1,15 +1,14 @@
-<h3 align="center">Hi, I'm Eden</h3>👋
-<p align="center">Hi, I'm Eden, a passionate self-taught full-stack web developer from India.</p>
+<h4 align="left">Hi, I'm Eden 👋</h4>
+<p align="left">Hi, I'm Eden, a passionate self-taught full-stack web developer from India.</p>
 
-- 🔭 I’m currently working on ****secret-project** 🤐**
+- 🔭 I’m currently working on ****secret-project**** 🤐**
 
 - 🌱 I’m currently learning **React**
 
+- ⚡ Fun fact ****I love watching anime****
+
 - 📫 How to reach me **rahulkathait931@gamil.com**
 
-- ⚡ Fun fact **I love watching anime**
-
-<br>
 <br>
 
 <h3 align="left">Connect with me:</h3>
@@ -19,7 +18,6 @@
 
 </p>
 
-<br>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,8 +31,6 @@
 </p>
 
 <br>
-<br>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edendattox&show_icons=true&locale=en&layout=compact" alt="edendattox" /></p>
 
