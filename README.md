@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on ****secret-project**** 🤐**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React Native** 
 
 - ⚡ Fun fact ****I love watching anime****
 
