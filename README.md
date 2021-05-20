@@ -1,6 +1,6 @@
 <h5 align="left">Hi, I'm Eden! 👋</h4>
 <br/>
-<p align="left">Hi, I'm Eden, a passionate self-taught full-stack web developer from India.</p>
+<p align="left">A passionate self-taught full-stack web developer from India.</p>
 
 - 🔭 I’m currently working on ****secret-project**** 🤐**
 
