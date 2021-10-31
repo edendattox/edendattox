@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React Native** 
 
-- ⚡ Fun fact ****I love watching anime****
-
 - 📫 How to reach me **rahulkathait931@gamil.com**
 
 
