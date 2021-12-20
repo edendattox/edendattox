@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ****secret-project**** 🤐**
 
-- 🌱 I’m currently learning **React Native** 
+- 🌱 I’m currently learning **Docker and kubernetes** 
 
 - 📫 How to reach me **rahulkathait931@gamil.com**
 
