@@ -1,8 +1,6 @@
 <h5 align="left">Hi, I'm Eden! 👋</h4>
 <p align="left">A passionate self-taught full-stack web developer from India.</p>
 
-- 🔭 I’m currently working on ****secret-project**** 🤐**
-
 - 🌱 I’m currently learning **Docker and kubernetes** 
 
 - 📫 How to reach me **rahulkathait931@gamil.com**
